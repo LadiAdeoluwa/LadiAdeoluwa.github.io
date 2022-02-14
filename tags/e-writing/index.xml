@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E-Writing on Ladi Adeoluwa</title>
+    <link>https://ladiadeoluwa.com/tags/e-writing/</link>
+    <description>Recent content in E-Writing on Ladi Adeoluwa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Feb 2022 23:35:58 +0530</lastBuildDate><atom:link href="https://ladiadeoluwa.com/tags/e-writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Entry</title>
+      <link>https://ladiadeoluwa.com/blog/first_post/</link>
+      <pubDate>Sun, 13 Feb 2022 23:35:58 +0530</pubDate>
+      
+      <guid>https://ladiadeoluwa.com/blog/first_post/</guid>
+      <description>This is my First Post. Welcome on this Journey with me. My Content will range across Technology, Academia, Random Thoughts etc.
+Looking Forward to it.
+ N.B. Let me know what you think here
+.{ sudo apt-get Welcome to my Blog }</description>
+    </item>
+    
+  </channel>
+</rss>
